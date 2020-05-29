@@ -14,7 +14,7 @@ Hope you have Fun~
 
 *CS
 
-*Literature Word Technology and so on
+*Literature Word Technology······
 
 *Everything is to be continued
 
