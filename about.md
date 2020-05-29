@@ -4,11 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Here is 松夏 blog
+  Hope you have Fun~
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+*XDUer
+*CS
+*Literature~Word~Technology~so on
+*Everything is to be continued
 
 ### Contact me
 
