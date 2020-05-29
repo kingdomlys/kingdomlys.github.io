@@ -11,7 +11,7 @@ Here is 松夏 blog
 
 *XDUer
 *CS
-*Literature~Word~Technology~so on
+*Literature Word Technology and so on
 *Everything is to be continued
 
 ### Contact me
